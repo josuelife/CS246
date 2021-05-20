@@ -1,3 +1,5 @@
 This is a little message to push to the cs246 repository in github
 This is a change in the file
-but it will surely create a merge conflict
+
+hope this does not create a merge conflict
+
